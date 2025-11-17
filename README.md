@@ -4,8 +4,8 @@
   <img 
     src="https://github.com/user-attachments/assets/305fd4a9-bea5-45b6-974c-14bde249c00c" 
     alt="image" 
-    width="500" 
-    height="250" 
+    width="400" 
+    height="350" 
     style="border-radius:25px;"
   />
 </p>
@@ -44,6 +44,15 @@ This is not just another CNN or LSTM project. It's a **unified multimodal networ
 - **Input**: 7-14 days of historical weather data
 - **Model**: LSTM/RNN network
 - **Output**: Context vector summarizing environmental trends
+ <p align="center">
+  <img 
+    src="https://github.com/user-attachments/assets/3f7ee077-4041-4256-8a64-df43617b2867" 
+    alt="image" 
+    width="300" 
+    height="300" 
+    style="border-radius:25px;"
+  />
+</p> 
 
 ### 🔄 Fusion & Classification
 - **Fusion**: Concatenate visual + context vectors
