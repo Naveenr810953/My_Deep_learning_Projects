@@ -1,5 +1,4 @@
 # --- 1. Install TensorFlow Datasets ---
-# This lets us download the PlantVillage dataset from the web
 !pip install tensorflow_datasets
 
 # --- 2. Import All Necessary Libraries ---
