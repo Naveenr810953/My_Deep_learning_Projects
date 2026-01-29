@@ -5,7 +5,7 @@
 import tensorflow as tf
 import tensorflow_datasets as tfds
 from tensorflow.keras import layers, models, applications     
-from tensorflow.keras.models import Sequential
+from tensorflow.keras.models import Sequential   
 from tensorflow.keras.layers import Dense, Dropout, GlobalAveragePooling2D
 import matplotlib.pyplot as plt      
 import numpy as np
