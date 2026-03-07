@@ -8,7 +8,7 @@ from tensorflow.keras import layers, models, applications
 from tensorflow.keras.models import Sequential   
 from tensorflow.keras.layers import Dense, Dropout, GlobalAveragePooling2D
 import matplotlib.pyplot as plt        
-import numpy as np
+import numpy as np  
 import os   
       
 # --- 3. Define Parameters ---
